@@ -25,7 +25,7 @@ public class Gugudan {
 		
 			
 		}
-	System.out.println("끝!");	
+	System.out.println("끝!!");	
 	}
 
 }
